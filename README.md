@@ -44,3 +44,11 @@ Kajian dilaksakan pada tanggal 11 Muharram 1441 H / 10 September 2019.
 Kajian dilaksakan pada tanggal 10 Safar 1441 / 8 Oktober 2019.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/saad_bin_abi_waqqas.MP3)
+
+## Tematik
+
+#### Keutamaan Ilmu
+
+Kajian dilaksakan pada tanggal 7 Dzulqa'dah 1440 / 9 Juli 2019.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/tematik/keutamaan_ilmu.MP3)
