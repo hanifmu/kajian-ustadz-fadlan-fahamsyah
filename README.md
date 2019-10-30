@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Meninggalnya Khadijah radhiyallahu 'anha
+
+Kajian dilaksanakan pada tanggal 18 Jumadil Ula 1438 / 14 Februari 2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/meninggalnya_khadijah.mp3)
+
 #### Hiburan dari Allah kepada Rasulullah
 
 Kajian dilaksanakan pada tanggal 2 Jumadil Tsani 1438 / 28 Februari 2017.
