@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Fathu Makkah
+
+Kajian dilaksanakan pada tanggal 26 Jumadil Akhir 1439 / 13 Maret 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/fathu_makkah.mp3)
+
 #### Perang Hunain
 
 Kajian dilaksanakan pada tanggal 11 Rajab 1439 / 27 Maret 2018.
