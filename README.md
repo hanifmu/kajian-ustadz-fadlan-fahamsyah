@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Hiburan dari Allah kepada Rasulullah
+
+Kajian dilaksanakan pada tanggal 2 Jumadil Tsani 1438 / 28 Februari 2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/hiburan_dari_allah_kepada_rasulullah.mp3)
+
 #### Baiat Aqabah
 
 Kajian dilaksanakan pada tanggal 1 Rajab 1438 / 28 Maret 2017.
