@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Haji Wada'
+
+Kajian dilaksanakan pada tanggal 19 Dzulqaidah 1439 / 31 Juli 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/haji_wada.mp3)
+
 #### Detik-Detik Menjelang Wafatnya Rasulullah
 
 Kajian dilaksanakan pada tanggal 3 Dzulhijjah 1439 / 14 Agustus 2018.
