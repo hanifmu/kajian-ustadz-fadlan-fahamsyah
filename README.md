@@ -4,17 +4,23 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Perang Bani Quraizhah
+
+Kajian dilaksanakan pada tanggal  21 Muharam 1439 / 10 Oktober 2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_bani_quraizhah.mp3)
+
 #### Tuduhan Terhadap Aisyah radhiyallahu 'anha
 
 Kajian dilaksanakan pada tanggal 5 Safar 1439 / 24 Oktober 2017.
 
-- [Downad audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/tuduhan_terhadap_aisyah.mp3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/tuduhan_terhadap_aisyah.mp3)
 
 #### Perjanjian Hudaibiyyah
 
 Kajian dilaksanakan pada tanggal 26 Safar 1439 / 14 November 2017.
 
-- [Downad audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perjanjian_hudaibiyyah.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perjanjian_hudaibiyyah.MP3)
 
 #### Surat Rasulullah Kepada Kaisar Romawi
 
