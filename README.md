@@ -4,9 +4,15 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Perang Ahzab
+
+Kajian dilaksanakan pada tanggal 7 Muharam 1439 / 26 September 2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_ahzab.mp3)
+
 #### Perang Bani Quraizhah
 
-Kajian dilaksanakan pada tanggal  21 Muharam 1439 / 10 Oktober 2017.
+Kajian dilaksanakan pada tanggal 21 Muharam 1439 / 10 Oktober 2017.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_bani_quraizhah.mp3)
 
