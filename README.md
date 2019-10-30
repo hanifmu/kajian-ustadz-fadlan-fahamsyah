@@ -4,6 +4,13 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Surat Nabi Kepada Raja-Raja
+
+Kajian dilaksanakan pada tanggal 7 Jumadil Awal 1439 / 23 Januari 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/surat_nabi_kepada_raja-raja.mp3)
+
+
 #### Perang Khaibar
 
 Kajian dilaksanakan pada tanggal 28 Jumadil Awal 1439 / 13 Februari 2018.
