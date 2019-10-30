@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Perjanjian Hudaibiyyah
+
+Kajian dilaksanakan pada tanggal 26 Safar 1439 / 14 November 2017.
+
+- [Downad audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perjanjian_hudaibiyyah.MP3)
+
 #### Surat Rasulullah Kepada Kaisar Romawi
 
 Kajian dilaksanakan pada tanggal 10 Rabiul Awal 1439 / 28 November 2017.
