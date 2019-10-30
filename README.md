@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Perang Khaibar
+
+Kajian dilaksanakan pada tanggal 28 Jumadil Awal 1439 / 13 Februari 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_khaibar.mp3)
+
 #### Perang Mu'tah
 
 Kajian dilaksanakan pada tanggal 12 Jumadil Akhir 1439 / 27 Februari 2018.
