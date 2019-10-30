@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### 5 Peristiwa Setelah Perang Tabuk
+
+Kajian dilaksanakan pada tanggal 9 Sya'ban 1439 / 24 April 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/5_peristiwa_setelah_perang_tabuk.mp3)
+
 #### Haji Wada'
 
 Kajian dilaksanakan pada tanggal 19 Dzulqaidah 1439 / 31 Juli 2018.
