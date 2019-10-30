@@ -181,3 +181,9 @@ Kajian dilaksanakan pada tanggal 7 Dzulqa'dah 1440 / 9 Juli 2019.
 Kajian dilaksanakan pada tanggal 27 Syawal 1439 / 10 Juli 2018.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/tematik/kisah_masuk_islamnya_salman_al_farisi.MP3)
+
+#### Penghancur Amal Ibadah
+
+Kajian dilaksanakan pada tanggal 25 Syawal 1438 / 18 Juli 2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/tematik/penghancur_amal_ibadah.MP3)
