@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Perang Hunain
+
+Kajian dilaksanakan pada tanggal 11 Rajab 1439 / 27 Maret 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_hunain.mp3)
+
 #### Perang Tabuk
 
 Kajian dilaksanakan pada tanggal 24 Rajab 1439 / 10 April 2018.
