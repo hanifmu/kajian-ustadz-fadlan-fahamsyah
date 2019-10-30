@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Perang Tabuk
+
+Kajian dilaksanakan pada tanggal 24 Rajab 1439 / 10 April 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_tabuk.mp3)
+
 #### 5 Peristiwa Setelah Perang Tabuk
 
 Kajian dilaksanakan pada tanggal 9 Sya'ban 1439 / 24 April 2018.
