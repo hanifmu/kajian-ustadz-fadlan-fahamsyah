@@ -4,12 +4,18 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Detik-Detik Menjelang Wafatnya Rasulullah
+
+Kajian dilaksakan pada tanggal 3 Dzulhijjah 1439 / 14 Agustus 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/detik-detik_menjelang_wafatnya_rasulullah.mp3)
+
+
 #### Mengenal Keluarga Rasulullah
 
 Kajian dilaksakan pada tanggal 17 Dzulhijjah 1439 / 28 Agustus 2018.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/mengenal_keluarga_rasulullah.MP3)
-
 
 ## Sirah Sahabat
 
