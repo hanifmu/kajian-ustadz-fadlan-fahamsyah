@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Hijrah
+
+Kajian dilaksanakan pada tanggal 15 Rajab 1438 / 11 April  2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/hijrah.MP3)
+
 #### Perang Badar
 
 Kajian dilaksanakan pada tanggal 2 Dzulqa'dah 1438 / 25 Juli 2017.
