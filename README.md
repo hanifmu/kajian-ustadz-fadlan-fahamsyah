@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Peristiwa Penting Antara Perang Uhud Dengan Perang Ahzab
+
+Kajian dilaksanakan pada tanggal 22 Dzulhijjah 1438 / 12 September 2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/peristiwa_penting_antara_perang_uhud_dengan_perang_ahzab.MP3)
+
 #### Perang Ahzab
 
 Kajian dilaksanakan pada tanggal 7 Muharam 1439 / 26 September 2017.
