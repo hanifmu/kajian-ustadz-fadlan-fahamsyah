@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Meninggalnya Abu Thalib
+
+Kajian dilaksanakan pada tanggal 26 Rabi'ul Tsani 1438 / 24 Januari 2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/meninggalnya_abu_thalib.mp3)
+
 #### Meninggalnya Khadijah radhiyallahu 'anha
 
 Kajian dilaksanakan pada tanggal 18 Jumadil Ula 1438 / 14 Februari 2017.
