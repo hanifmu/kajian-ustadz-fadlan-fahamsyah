@@ -4,11 +4,17 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
-#### Perang Uhud
+#### Perang Uhud #1
+
+Kajian dilaksanakan pada tanggal 16 Dzulqa'dah 1438H. / 8 Agustus 2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_uhud-1.MP3)
+
+#### Perang Uhud #2
 
 Kajian dilaksanakan pada tanggal 29 Dzulqa'dah 1438 / 22 Agustus 2017.
 
-- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_uhud.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_uhud-2.MP3)
 
 #### Peristiwa Penting Antara Perang Uhud Dengan Perang Ahzab
 
