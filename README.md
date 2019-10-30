@@ -4,9 +4,15 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Perang Badar
+
+Kajian dilaksanakan pada tanggal 2 Dzulqa'dah 1438 / 25 Juli 2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_badar.MP3)
+
 #### Perang Uhud #1
 
-Kajian dilaksanakan pada tanggal 16 Dzulqa'dah 1438H. / 8 Agustus 2017.
+Kajian dilaksanakan pada tanggal 16 Dzulqa'dah 1438 / 8 Agustus 2017.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_uhud-1.MP3)
 
