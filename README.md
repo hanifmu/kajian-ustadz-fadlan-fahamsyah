@@ -6,14 +6,14 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 #### Detik-Detik Menjelang Wafatnya Rasulullah
 
-Kajian dilaksakan pada tanggal 3 Dzulhijjah 1439 / 14 Agustus 2018.
+Kajian dilaksanakan pada tanggal 3 Dzulhijjah 1439 / 14 Agustus 2018.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/detik-detik_menjelang_wafatnya_rasulullah.mp3)
 
 
 #### Mengenal Keluarga Rasulullah
 
-Kajian dilaksakan pada tanggal 17 Dzulhijjah 1439 / 28 Agustus 2018.
+Kajian dilaksanakan pada tanggal 17 Dzulhijjah 1439 / 28 Agustus 2018.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/mengenal_keluarga_rasulullah.MP3)
 
@@ -21,20 +21,20 @@ Kajian dilaksakan pada tanggal 17 Dzulhijjah 1439 / 28 Agustus 2018.
 
 ####  Abu Bakar Ash Shidiq
 
-Kajian dilaksakan pada tanggal 16 Muharam 1440  / 25 September 2018.
+Kajian dilaksanakan pada tanggal 16 Muharam 1440  / 25 September 2018.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/abu_bakar_ash_shidiq.MP3)
 
 #### Umar bin Khattab
 
-Kajian dilaksakan pada tanggal 1 Safar 1440 / 09 Oktober 2018 dan 15 Safar 1440 / 23 Oktober 2018.
+Kajian dilaksanakan pada tanggal 1 Safar 1440 / 09 Oktober 2018 dan 15 Safar 1440 / 23 Oktober 2018.
 
 - [Download audio kajian #1](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/umar_bin_khattab-1.MP3)
 - [Download audio kajian #2](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/umar_bin_khattab-2.MP3)
 
 #### Utsman bin Affan
 
-Kajian dilaksakan pada tanggal 6 Rabiul Awal 1440 / 13 November 2018, 4 Rabiul Akhir 1440  / 11 Desember 2018, dan 3 Jumadil Awal 1440 / 08 Januari 2019.
+Kajian dilaksanakan pada tanggal 6 Rabiul Awal 1440 / 13 November 2018, 4 Rabiul Akhir 1440  / 11 Desember 2018, dan 3 Jumadil Awal 1440 / 08 Januari 2019.
 
 - [Download audio kajian #1](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/utsman_bin_affan-1.MP3)
 - [Download audio kajian #2](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/utsman_bin_affan-2.MP3)
@@ -42,7 +42,7 @@ Kajian dilaksakan pada tanggal 6 Rabiul Awal 1440 / 13 November 2018, 4 Rabiul A
 
 #### Ali bin Abi Thalib
 
-Kajian dilaksakan pada tanggal 8 Jumadil Akhir 1440 / 12 Februari 2019, 6 Rajab 1440 / 12 Maret 2019, dan 5 Sya'ban 1440 / 9 April 2019.
+Kajian dilaksanakan pada tanggal 8 Jumadil Akhir 1440 / 12 Februari 2019, 6 Rajab 1440 / 12 Maret 2019, dan 5 Sya'ban 1440 / 9 April 2019.
 
 - [Download audio kajian #1](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/ali_bin_abi_thalib-1.MP3)
 - [Download audio kajian #2](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/ali_bin_abi_thalib-2.MP3)
@@ -50,13 +50,13 @@ Kajian dilaksakan pada tanggal 8 Jumadil Akhir 1440 / 12 Februari 2019, 6 Rajab 
 
 #### Abdurrahman bin Auf
 
-Kajian dilaksakan pada tanggal 11 Muharram 1441 H / 10 September 2019.
+Kajian dilaksanakan pada tanggal 11 Muharram 1441 H / 10 September 2019.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/abdurrahman_bin_auf.MP3)
 
 #### Sa'ad bin Abi Waqqash
 
-Kajian dilaksakan pada tanggal 10 Safar 1441 / 8 Oktober 2019.
+Kajian dilaksanakan pada tanggal 10 Safar 1441 / 8 Oktober 2019.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/saad_bin_abi_waqqas.MP3)
 
@@ -64,6 +64,6 @@ Kajian dilaksakan pada tanggal 10 Safar 1441 / 8 Oktober 2019.
 
 #### Keutamaan Ilmu
 
-Kajian dilaksakan pada tanggal 7 Dzulqa'dah 1440 / 9 Juli 2019.
+Kajian dilaksanakan pada tanggal 7 Dzulqa'dah 1440 / 9 Juli 2019.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/tematik/keutamaan_ilmu.MP3)
