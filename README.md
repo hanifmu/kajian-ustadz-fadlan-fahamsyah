@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Tuduhan Terhadap Aisyah radhiyallahu 'anha
+
+Kajian dilaksanakan pada tanggal 5 Safar 1439 / 24 Oktober 2017.
+
+- [Downad audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/tuduhan_terhadap_aisyah.mp3)
+
 #### Perjanjian Hudaibiyyah
 
 Kajian dilaksanakan pada tanggal 26 Safar 1439 / 14 November 2017.
