@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Surat Rasulullah Kepada Kaisar Romawi
+
+Kajian dilaksanakan pada tanggal 10 Rabiul Awal 1439 / 28 November 2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/surat_rasulullah_kepada_kaisar_romawi.mp3)
+
 #### Surat Nabi Kepada Raja Persia
 
 Kajian dilaksanakan pada tanggal 22 Rabiul Akhir 1439 / 09 Januari 2018.
