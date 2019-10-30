@@ -85,3 +85,9 @@ Kajian dilaksanakan pada tanggal 10 Safar 1441 / 8 Oktober 2019.
 Kajian dilaksanakan pada tanggal 7 Dzulqa'dah 1440 / 9 Juli 2019.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/tematik/keutamaan_ilmu.MP3)
+
+#### Kisah Masuk Islamnya Salman Al Farisi
+
+Kajian dilaksanakan pada tanggal 27 Syawal 1439 / 10 Juli 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/tematik/kisah_masuk_islamnya_salman_al_farisi.MP3)
