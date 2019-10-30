@@ -4,9 +4,15 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Baiat Aqabah
+
+Kajian dilaksanakan pada tanggal 1 Rajab 1438 / 28 Maret 2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/baiat_aqabah.MP3)
+
 #### Hijrah
 
-Kajian dilaksanakan pada tanggal 15 Rajab 1438 / 11 April  2017.
+Kajian dilaksanakan pada tanggal 15 Rajab 1438 / 11 April 2017.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/hijrah.MP3)
 
