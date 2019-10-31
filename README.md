@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Pemboikotan dari Orang Quraisy
+
+Kajian dilaksanakan pada tanggal 12 Rabi'ul Tsani 1438 / 10 Januari 2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/pemboikotan_dari_orang_quraisy.mp3)
+
 #### Meninggalnya Abu Thalib
 
 Kajian dilaksanakan pada tanggal 26 Rabi'ul Tsani 1438 / 24 Januari 2017.
