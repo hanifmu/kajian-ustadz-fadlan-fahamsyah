@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Hijrah ke Habasyah
+
+Kajian dilaksanakan pada tanggal 28  Rabi'ul Awwal 1438 /27  Desember 2016.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/hijrah_ke_habasyah.mp3)
+
 #### Pemboikotan dari Orang Quraisy
 
 Kajian dilaksanakan pada tanggal 12 Rabi'ul Tsani 1438 / 10 Januari 2017.
