@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Awal-awal Rasulullah Diangkat Sebagai Nabi
+
+Kajian dilaksanakan pada tanggal 23 Safar 1438 / 22 November 2016.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/awal-awal_rasulullah_diangkat_sebagai_nabi.MP3)
+
 #### Faktor-Faktor Kafir Quraisy Menolak Dakwah Rasulullah
 
 Kajian dilaksanakan pada tanggal 14 Rabi'ul Awwal 1438 /13 Desember 2016.
