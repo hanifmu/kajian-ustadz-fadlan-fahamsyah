@@ -4,9 +4,15 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Faktor-Faktor Kafir Quraisy Menolak Dakwah Rasulullah
+
+Kajian dilaksanakan pada tanggal 14 Rabi'ul Awwal 1438 /13 Desember 2016.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/faktor-faktor_kafir_quraisy_menolak_dakwah_rasulullah.MP3)
+
 #### Hijrah ke Habasyah
 
-Kajian dilaksanakan pada tanggal 28  Rabi'ul Awwal 1438 /27  Desember 2016.
+Kajian dilaksanakan pada tanggal 28 Rabi'ul Awwal 1438 / 27  Desember 2016.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/hijrah_ke_habasyah.mp3)
 
