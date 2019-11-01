@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Perjalanan Hidup Rasulullah Saat Berumur 12-35 Tahun
+
+Kajian dilaksanakan pada tanggal 9 Safar 1438 / 8 November 2016.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perjalanan_hidup_rasulullah_saat_berumur_12-35_tahun.mp3)
+
 #### Awal-awal Rasulullah Diangkat Sebagai Nabi
 
 Kajian dilaksanakan pada tanggal 23 Safar 1438 / 22 November 2016.
