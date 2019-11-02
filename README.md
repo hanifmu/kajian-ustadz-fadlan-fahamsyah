@@ -4,6 +4,12 @@ Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
 ## Sirah Nabawiyah
 
+#### Mengenal Rasulullah
+
+Kajian dilaksanakan pada tanggal 25 Muharram 1438 / 25 Oktober 2016.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/mengenal_rasulullah.mp3)
+
 #### Perjalanan Hidup Rasulullah Saat Berumur 12-35 Tahun
 
 Kajian dilaksanakan pada tanggal 9 Safar 1438 / 8 November 2016.
