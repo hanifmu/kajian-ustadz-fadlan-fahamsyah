@@ -234,6 +234,12 @@ Kajian dilaksanakan pada tanggal 10 Safar 1441 / 8 Oktober 2019.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/saad_bin_abi_waqqas.MP3)
 
+#### Abu Ubaidah bin Jarrah
+
+Kajian dilaksanakan pada tanggal 22l6 Rabi'ul Awwl 1441 / 22 November 2019.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/abu_ubaidah_bin_jarrah.MP3)
+
 ## Tematik
 
 #### Keutamaan Ilmu
