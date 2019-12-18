@@ -242,6 +242,12 @@ Kajian dilaksanakan pada tanggal 22l6 Rabi'ul Awwl 1441 / 22 November 2019.
 
 ## Tematik
 
+#### Kisah Abu Thalib
+
+Kajian dilaksanakan pada tanggal 14 Rabi'ul Akhir 1441 / 10 Desember 2019.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/tematik/kisab_abu_thalib.MP3)
+
 #### Keutamaan Ilmu
 
 Kajian dilaksanakan pada tanggal 7 Dzulqa'dah 1440 / 9 Juli 2019.
