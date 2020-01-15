@@ -240,6 +240,12 @@ Kajian dilaksanakan pada tanggal 22l6 Rabi'ul Awwl 1441 / 22 November 2019.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/abu_ubaidah_bin_jarrah.MP3)
 
+#### Salman Al Farisi
+
+Kajian dilaksanakan pada tanggal 20 Jumadal Awwal 1441 / 14 Januari 2020.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/salman_al_farisi.MP3)
+
 ## Tematik
 
 #### Kisah Abu Thalib
