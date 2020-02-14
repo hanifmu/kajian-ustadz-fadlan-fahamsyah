@@ -242,9 +242,15 @@ Kajian dilaksanakan pada tanggal 22l6 Rabi'ul Awwl 1441 / 22 November 2019.
 
 #### Salman Al Farisi
 
-Kajian dilaksanakan pada tanggal 20 Jumadal Awwal 1441 / 14 Januari 2020.
+Kajian dilaksanakan pada tanggal 20 Jumadil Awwal 1441 / 14 Januari 2020.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/salman_al_farisi.MP3)
+
+#### Khalid bin Walid
+
+Kajian dilaksanakan pada tanggal 20 Jumadil Akhir 1441 / 11 Februari 2020.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/khalid_bin_walid.MP3)
 
 ## Tematik
 
