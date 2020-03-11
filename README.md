@@ -252,6 +252,12 @@ Kajian dilaksanakan pada tanggal 20 Jumadil Akhir 1441 / 11 Februari 2020.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/khalid_bin_walid.MP3)
 
+#### Ja'far bin Abi Thalib
+
+Kajian dilaksanakan pada tanggal 16 Rajab 1441 / 10 Maret 2020.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/jafar_bin_abi_thalib.MP3)
+
 ## Tematik
 
 #### Kisah Abu Thalib
