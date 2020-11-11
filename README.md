@@ -258,6 +258,15 @@ Kajian dilaksanakan pada tanggal 16 Rajab 1441 / 10 Maret 2020.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/jafar_bin_abi_thalib.MP3)
 
+
+## Sirah Shahabiyah
+
+#### Khadijah binti Khuwailid
+
+Kajian dilaksanakan pada tanggal 25 Rabi'ul Awal 1442 H / 10 November 2020.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_shahabiyah/khadijah_binti_khuwailid.MP3)
+
 ## Tematik
 
 #### Kisah Abu Thalib
