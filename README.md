@@ -267,6 +267,12 @@ Kajian dilaksanakan pada tanggal 25 Rabi'ul Awal 1442 H / 10 November 2020.
 
 - [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_shahabiyah/khadijah_binti_khuwailid.MP3)
 
+#### Aisyah binti Abu Bakr
+
+Kajian dilaksanakan pada tanggal 24 Rabi'ul Akhir 1442 / 08 Desember 2020.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_shahabiyah/aisyah_binti_abu_bakr.mp3)
+
 ## Tematik
 
 #### Kisah Abu Thalib
