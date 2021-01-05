@@ -2,138 +2,299 @@
 
 Dokumentasi Kajian Ustadz Fadlan Fahamsyah di Masjid Namira Lamongan.
 
-## Tafsir Surat Yusuf
+## Sirah Nabawiyah
 
-### Ayat 1-3
+### Mengenal Rasulullah
 
-Kajian dilaksanakan pada tanggal 1 Jumadil Akhir 1439 / 16 Februari 2018.
+Kajian dilaksanakan pada tanggal 25 Muharrom 1438 / 25 Oktober 2016.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_1-3/audio_tafsir_surat_yusuf_ayat_1-3.mp3)
-- [Download Slide Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_1-3/slide_tafsir_surat_yusuf_ayat_1-3.pdf)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/mengenal_rasulullah.mp3)
 
-### Ayat 4-5
+### Perjalanan Hidup Rasulullah Saat Berumur 12-35 Tahun
 
-Kajian dilaksanakan pada tanggal 29 Jumadil Akhir 1439 / 16 Maret 2018.
+Kajian dilaksanakan pada tanggal 9 Shafar 1438 / 8 November 2016.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_4-5/audio_tafsir_surat_yusuf_ayat_4-5.mp3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perjalanan_hidup_rasulullah_saat_berumur_12-35_tahun.mp3)
 
-### Ayat 6-10
+### Awal-awal Rasulullah Diangkat Sebagai Nabi
 
-Kajian dilaksanakan pada tanggal 5 Sya'ban 1439 / 20 April 2018.
+Kajian dilaksanakan pada tanggal 23 Shafar 1438 / 22 November 2016.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_6-10/audio_tafsir_surat_yusuf_ayat_6-10.mp3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/awal-awal_rasulullah_diangkat_sebagai_nabi.MP3)
 
-### Ayat 11-15
+### Faktor-Faktor Kafir Quraisy Menolak Dakwah Rasulullah
 
-Kajian dilaksanakan pada tanggal 7 Dzulqo'dah 1439 / 20 Juli 2018.
+Kajian dilaksanakan pada tanggal 14 Rabi'ul Awwal 1438 /13 Desember 2016.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_11-15/audio_tafsir_surat_yusuf_ayat_11-15.mp3)
-- [Download Slide Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_11-15/slide_tafsir_surat_yusuf_ayat_11-15.pdf)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/faktor-faktor_kafir_quraisy_menolak_dakwah_rasulullah.MP3)
 
-### Ayat 16-18
+### Hijrah ke Habasyah
 
-Kajian dilaksanakan pada tanggal 12 Muharrom 1440 / 21 September 2018.
+Kajian dilaksanakan pada tanggal 28 Rabi'ul Awwal 1438 / 27  Desember 2016.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_16-18/audio_tafsir_surat_yusuf_ayat_16-18.mp3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/hijrah_ke_habasyah.mp3)
 
-### Ayat 19-21
+### Pemboikotan dari Orang Quraisy
 
-Kajian dilaksanakan pada tanggal 11 Shafar 1440 / 19 Oktober 2018.
+Kajian dilaksanakan pada tanggal 12 Rabi'ul Akhir 1438 / 10 Januari 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_19-21/audio_tafsir_surat_yusuf_ayat_19-21.mp3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/pemboikotan_dari_orang_quraisy.mp3)
 
-### Ayat 22-29
+### Meninggalnya Abu Thalib
 
-Kajian dilaksanakan pada tanggal 9 Rabi'ul Awal 1440 / 16 November 2018.
+Kajian dilaksanakan pada tanggal 26 Rabi'ul Akhir 1438 / 24 Januari 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_22-29/audio_tafsir_surat_yusuf_ayat_22-29.mp3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/meninggalnya_abu_thalib.mp3)
 
-### Ayat 30-32
+### Meninggalnya Khadijah radhiyallahu 'anha
 
-Kajian dilaksanakan pada tanggal 14 Rabi'ul Akhir 1440 / 21 Desember 2018.
+Kajian dilaksanakan pada tanggal 18 Jumadil Awwal 1438 / 14 Februari 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_30-32/audio_tafsir_surat_yusuf_ayat_30-32.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/meninggalnya_khadijah.mp3)
 
-### Ayat 33-37
+### Hiburan dari Allah kepada Rasulullah
 
-Kajian dilaksanakan pada tanggal 13 Jumadil Awal 1440 / 18 Januari 2019.
+Kajian dilaksanakan pada tanggal 2 Jumadil Akhir 1438 / 28 Februari 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_33-37/audio_tafsir_surat_yusuf_ayat_33-37.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/hiburan_dari_allah_kepada_rasulullah.mp3)
 
-### Ayat 38-40
+### Baiat Aqabah
 
-Kajian dilaksanakan pada tanggal 11 Jumadil Akhir 1440 / 15 Februari 2019.
+Kajian dilaksanakan pada tanggal 1 Rajab 1438 / 28 Maret 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_38-40/audio_tafsir_surat_yusuf_ayat_38-40.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/baiat_aqabah.MP3)
 
-### Ayat 41-42
+### Hijrah
 
-Kajian dilaksanakan pada tanggal 15 Sya'ban 1440 / 19 April 2019.
+Kajian dilaksanakan pada tanggal 15 Rajab 1438 / 11 April 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_41-42/audio_tafsir_surat_yusuf_ayat_41-42.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/hijrah.MP3)
 
-### Ayat 43-49
+### Perang Badar
 
-Kajian dilaksanakan pada tanggal 18 Syawwal 1440 / 21 Juni 2019.
+Kajian dilaksanakan pada tanggal 2 Dzulqo'dah 1438 / 25 Juli 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_43-49/audio_tafsir_surat_yusuf_ayat_43-49.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_badar.MP3)
 
-### Ayat 50-53
+### Perang Uhud #1
 
-Kajian dilaksanakan pada tanggal 10 Dzulqo'dah 1440 / 12 Juli 2019.
+Kajian dilaksanakan pada tanggal 16 Dzulqo'dah 1438 / 8 Agustus 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_50-53/audio_tafsir_surat_yusuf_ayat_50-53.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_uhud-1.MP3)
 
-### Ayat 54-57
+### Perang Uhud #2
 
-Kajian dilaksanakan pada tanggal 21 Muharrom 1441 / 20 September 2019.
+Kajian dilaksanakan pada tanggal 29 Dzulqo'dah 1438 / 22 Agustus 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_54-57/audio_tafsir_surat_yusuf_ayat_54-57.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_uhud-2.MP3)
 
-### Ayat 58-62
+### Peristiwa Penting Antara Perang Uhud Dengan Perang Ahzab
 
-Kajian dilaksanakan pada tanggal 20 Shafar 1441 / 18 Oktober 2019.
+Kajian dilaksanakan pada tanggal 22 Dzulhijjah 1438 / 12 September 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_58-62/audio_tafsir_surat_yusuf_ayat_58-62.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/peristiwa_penting_antara_perang_uhud_dengan_perang_ahzab.MP3)
 
-### Ayat 63-66
+### Perang Ahzab
 
-Kajian dilaksanakan pada tanggal 18 Rabi'ul Awal 1441 / 15 November 2019.
+Kajian dilaksanakan pada tanggal 7 Muharrom 1439 / 26 September 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_63-66/audio_tafsir_surat_yusuf_ayat_63-66.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_ahzab.mp3)
 
-### Ayat 67
+### Perang Bani Quraizhah
 
-Kajian dilaksanakan pada tanggal 24 Rabi'ul Akhir 1441 / 20 Desember 2019.
+Kajian dilaksanakan pada tanggal 21 Muharrom 1439 / 10 Oktober 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_67/audio_tafsir_surat_yusuf_ayat_67.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_bani_quraizhah.mp3)
 
-### Ayat 68-69
+### Tuduhan Terhadap Aisyah radhiyallahu 'anha
 
-Kajian dilaksanakan pada tanggal 23 Jumadil Awwal 1441 / 17 Januari 2020.
+Kajian dilaksanakan pada tanggal 5 Shafar 1439 / 24 Oktober 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_68-69/audio_tafsir_surat_yusuf_ayat_68-69.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/tuduhan_terhadap_aisyah.mp3)
 
-### Ayat 70-77
+### Perjanjian Hudaibiyyah
 
-Kajian dilaksanakan pada tanggal 28 Jumadil Akhir 1441 / 21 Februari 2020.
+Kajian dilaksanakan pada tanggal 26 Shafar 1439 / 14 November 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_70-77/audio_tafsir_surat_yusuf_ayat_70-77.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perjanjian_hudaibiyyah.MP3)
 
-### Ayat 78-79 #1
+### Surat Rasulullah Kepada Kaisar Romawi
 
-Kajian dilaksanakan pada tanggal  26 Rajab 1441  / 20 Maret 2020.
+Kajian dilaksanakan pada tanggal 10 Rabi'ul Awal 1439 / 28 November 2017.
 
-- [Download Audio Kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_78-79/audio_tafsir_surat_yusuf_ayat_78-79.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/surat_rasulullah_kepada_kaisar_romawi.mp3)
 
-### Ayat 78-79 #2
+### Surat Nabi Kepada Raja Persia
 
-Kajian dilaksanakan pada tanggal 21 Rabi'ul Awal 1442 H / 6 November 2020.
+Kajian dilaksanakan pada tanggal 22 Rabi'ul Akhir 1439 / 09 Januari 2018.
 
-- [Download audio kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_78-79_2/audio_tafsir_surat_yusuf_ayat_78-79_2.MP3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/surat_nabi_kepada_raja_persia.mp3)
 
-### Ayat 80-82
+### Surat Nabi Kepada Raja-Raja
 
-Kajian dilaksanakan pada tanggal 4 Jumadil Awal 1442 H / 18 Desember 2020.
+Kajian dilaksanakan pada tanggal 7 Jumadil Awwal 1439 / 23 Januari 2018.
 
-- [Download audio kajian](https://github.com/hanifmu/kajian-tafsir-al-quran-surat-yusuf-ustadz-farid-dhofir/raw/master/ayat_80-82/audio_tafsir_surat_yusuf_ayat_80-82.mp3)
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/surat_nabi_kepada_raja-raja.mp3)
+
+### Perang Khaibar
+
+Kajian dilaksanakan pada tanggal 28 Jumadil Awal 1439 / 13 Februari 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_khaibar.mp3)
+
+### Perang Mu'tah
+
+Kajian dilaksanakan pada tanggal 12 Jumadil Akhir 1439 / 27 Februari 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_mutah.mp3)
+
+### Fathu Makkah
+
+Kajian dilaksanakan pada tanggal 26 Jumadil Akhir 1439 / 13 Maret 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/fathu_makkah.mp3)
+
+### Perang Hunain
+
+Kajian dilaksanakan pada tanggal 11 Rajab 1439 / 27 Maret 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_hunain.mp3)
+
+### Perang Tabuk
+
+Kajian dilaksanakan pada tanggal 24 Rajab 1439 / 10 April 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/perang_tabuk.mp3)
+
+### 5 Peristiwa Setelah Perang Tabuk
+
+Kajian dilaksanakan pada tanggal 9 Sya'ban 1439 / 24 April 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/5_peristiwa_setelah_perang_tabuk.mp3)
+
+### Haji Wada'
+
+Kajian dilaksanakan pada tanggal 19 Dzulqo'dah 1439 / 31 Juli 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/haji_wada.mp3)
+
+### Detik-Detik Menjelang Wafatnya Rasulullah
+
+Kajian dilaksanakan pada tanggal 3 Dzulhijjah 1439 / 14 Agustus 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/detik-detik_menjelang_wafatnya_rasulullah.mp3)
+
+
+### Mengenal Keluarga Rasulullah
+
+Kajian dilaksanakan pada tanggal 17 Dzulhijjah 1439 / 28 Agustus 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_nabawiyah/mengenal_keluarga_rasulullah.MP3)
+
+## Sirah Sahabat
+
+###  Abu Bakar Ash Shidiq
+
+Kajian dilaksanakan pada tanggal 16 Muharrom 1440  / 25 September 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/abu_bakar_ash_shidiq.MP3)
+
+### Umar bin Khattab
+
+Kajian dilaksanakan pada tanggal 1 Safar 1440 / 09 Oktober 2018 dan 15 Safar 1440 / 23 Oktober 2018.
+
+- [Download audio kajian #1](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/umar_bin_khattab-1.MP3)
+- [Download audio kajian #2](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/umar_bin_khattab-2.MP3)
+
+### Utsman bin Affan
+
+Kajian dilaksanakan pada tanggal 6 Rabi'ul Awal 1440 / 13 November 2018, 4 Rabiul Akhir 1440  / 11 Desember 2018, dan 3 Jumadil Awal 1440 / 08 Januari 2019.
+
+- [Download audio kajian #1](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/utsman_bin_affan-1.MP3)
+- [Download audio kajian #2](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/utsman_bin_affan-2.MP3)
+- [Download audio kajian #3](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/utsman_bin_affan-3.MP3)
+
+### Ali bin Abi Thalib
+
+Kajian dilaksanakan pada tanggal 8 Jumadil Akhir 1440 / 12 Februari 2019, 6 Rajab 1440 / 12 Maret 2019, dan 5 Sya'ban 1440 / 9 April 2019.
+
+- [Download audio kajian #1](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/ali_bin_abi_thalib-1.MP3)
+- [Download audio kajian #2](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/ali_bin_abi_thalib-2.MP3)
+- [Download audio kajian #3](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/ali_bin_abi_thalib-3.MP3)
+
+### Abdurrahman bin Auf
+
+Kajian dilaksanakan pada tanggal 11 Muharrom 1441 H / 10 September 2019.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/abdurrahman_bin_auf.MP3)
+
+### Sa'ad bin Abi Waqqash
+
+Kajian dilaksanakan pada tanggal 10 Shafar 1441 / 8 Oktober 2019.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/saad_bin_abi_waqqas.MP3)
+
+### Abu Ubaidah bin Jarrah
+
+Kajian dilaksanakan pada tanggal 22l6 Rabi'ul Awwl 1441 / 22 November 2019.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/abu_ubaidah_bin_jarrah.MP3)
+
+### Salman Al Farisi
+
+Kajian dilaksanakan pada tanggal 20 Jumadil Awwal 1441 / 14 Januari 2020.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/salman_al_farisi.MP3)
+
+### Khalid bin Walid
+
+Kajian dilaksanakan pada tanggal 20 Jumadil Akhir 1441 / 11 Februari 2020.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/khalid_bin_walid.MP3)
+
+### Ja'far bin Abi Thalib
+
+Kajian dilaksanakan pada tanggal 16 Rajab 1441 / 10 Maret 2020.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_sahabat/jafar_bin_abi_thalib.MP3)
+
+
+## Sirah Shahabiyah
+
+### Khadijah binti Khuwailid
+
+Kajian dilaksanakan pada tanggal 25 Rabi'ul Awal 1442 H / 10 November 2020.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_shahabiyah/khadijah_binti_khuwailid.MP3)
+
+### Aisyah binti Abu Bakr
+
+Kajian dilaksanakan pada tanggal 24 Rabi'ul Akhir 1442 / 08 Desember 2020.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/sirah_shahabiyah/aisyah_binti_abu_bakr.mp3)
+
+## Tematik
+
+### Kisah Abu Thalib
+
+Kajian dilaksanakan pada tanggal 14 Rabi'ul Akhir 1441 / 10 Desember 2019.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/tematik/kisab_abu_thalib.MP3)
+
+### Keutamaan Ilmu
+
+Kajian dilaksanakan pada tanggal 7 Dzulqo'dah 1440 / 9 Juli 2019.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/tematik/keutamaan_ilmu.MP3)
+
+### Kisah Masuk Islamnya Salman Al Farisi
+
+Kajian dilaksanakan pada tanggal 27 Syawwal 1439 / 10 Juli 2018.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/tematik/kisah_masuk_islamnya_salman_al_farisi.MP3)
+
+### Penghancur Amal Ibadah
+
+Kajian dilaksanakan pada tanggal 25 Syawwal 1438 / 18 Juli 2017.
+
+- [Download audio kajian](https://github.com/hanifmu/kajian-ustadz-fadlan-fahamsyah/raw/master/tematik/penghancur_amal_ibadah.MP3)
